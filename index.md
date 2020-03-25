@@ -12,8 +12,8 @@ En primer lugar abrimos una ventana de explorador de archivos y pulsamos botón 
 
 Nos saldrá un menu donde elegiremos la letra de asignación a la unidad y la dirección. La letra será una que esté libre, normalmente nos ofrecerá una de las últimas y la dirección la siguiente:
 
-- Para Oncología Radioterápica: **\\Obelix.arnau.scs.es\E\OncologiaRadioterapica**
-- Para Protección Radiológica: **\\Obelix.arnau.scs.es\E\ProteccioRadiologica**
+- Para Oncología Radioterápica: **\\\Obelix.arnau.scs.es\E\OncologiaRadioterapica**
+- Para Protección Radiológica: **\\\Obelix.arnau.scs.es\E\ProteccioRadiologica**
 
 ![Menú de asignación de unidad de red](img/UnidadDeRed2.png)
 
