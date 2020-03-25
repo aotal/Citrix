@@ -22,7 +22,7 @@ Cuando nos pida las credenciales, deberemos poner como usuario **dni@arnau.scs.e
 
 # Procedimiento para instalación de Citrix
 
-En primer lugar, instalar la versión moderna del Citrix Receiver que se puede descargar [aquí](https://www.citrix.com/es-es/downloads/workspace-app/). Se llama Citrix Workspace App. Una vez hecho esto, nos conectamos a la dirección desde [Chrome](https://vcitrixman.arnau.scs.es/Citrix/StoreWeb/). Hay que pasar de instalar nada, ya que ya lo tenemos instalado todo, aceptar todo e indicarle que ya tenemos instalado el programa.
+En primer lugar, instalar la versión moderna del Citrix Receiver que se puede descargar [aquí](https://www.citrix.com/es-es/downloads/workspace-app/). Como hay problemas para descargarlo, el ejecutable está en la ruta SPRiR/Admin/TELETREBALL. Se llama Citrix Workspace App. Una vez hecho esto, nos conectamos a la dirección desde [Chrome](https://vcitrixman.arnau.scs.es/Citrix/StoreWeb/). Hay que pasar de instalar nada, ya que ya lo tenemos instalado todo, aceptar todo e indicarle que ya tenemos instalado el programa.
 
 ![Store Front](img/Citrix1.JPG))
 
