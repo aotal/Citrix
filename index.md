@@ -1,11 +1,3 @@
----
-layout: post
-mathjax: true
-comments: true
-title:  "Herramientas para el Teletrabajo HUAV"
----
-
-
 # Herramientas para el Teletrabajo HUAV
 
 ## Prerequisitos
