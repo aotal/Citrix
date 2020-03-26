@@ -1,3 +1,12 @@
+---
+layout: post
+mathjax: true
+comments: true
+title:  "Herramientas para el Teletrabajo HUAV"
+---
+
+{% include mathjax.html %}
+
 # Herramientas para el Teletrabajo HUAV
 
 ## Prerequisitos
