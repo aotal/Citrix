@@ -1,10 +1,12 @@
-# Prerequisitos
+# Herramientas para el Teletrabajo HUAV
+
+## Prerequisitos
 
 - Tener la [VPN](https://software.cisco.com/download/navigator.html?mdfid=283000185&i=rm) del Arnau activada
 
 ![Pantalla de la VPN activada](img/VPN.JPG)
 
-# Configuración de unidades virtuales
+## Configuración de unidades virtuales
 
 En primer lugar abrimos una ventana de explorador de archivos y pulsamos botón derecho encima de MiPC (En la figura **Ordinador**) y vamos a **asignar unidad de red**.
 
@@ -20,7 +22,7 @@ Nos saldrá un menu donde elegiremos la letra de asignación a la unidad y la di
 Cuando nos pida las credenciales, deberemos poner como usuario **dni@arnau.scs.es** y como password el nuestro de Windows del Hospital.
 
 
-# Procedimiento para instalación de Citrix
+## Procedimiento para instalación de Citrix
 
 En primer lugar, instalar la versión moderna del Citrix Receiver que se puede descargar [aquí](https://www.citrix.com/es-es/downloads/workspace-app/). Como hay problemas para descargarlo, el ejecutable está en la ruta SPRiR/Admin/TELETREBALL. Se llama Citrix Workspace App. Una vez hecho esto, nos conectamos a la dirección desde [Chrome](https://vcitrixman.arnau.scs.es/Citrix/StoreWeb/). Hay que pasar de instalar nada, ya que ya lo tenemos instalado todo, aceptar todo e indicarle que ya tenemos instalado el programa.
 
@@ -38,4 +40,4 @@ En caso de querer crear un acceso directo en el escritorio, nos ponemos en el mi
 
 ![Acceso directo a Home](img/Drecera.PNG)
 
-En la ruta .\SPRiR\Admin\TELETREBALL\ConexionCitrix\img se encuenta el fichero **logo.ico** por si alguien le quiere poner el icono al acceso directo. 
+En la ruta .\SPRiR\Admin\TELETREBALL\ConexionCitrix\img se encuenta el fichero **logo.ico** por si alguien le quiere poner el icono al acceso directo.
