@@ -30,4 +30,12 @@ Nos logeamos con nuestro usuario de Windows del curro e iniciamos sesión. Saldr
 
 ![Pantalla de las aplicaciones de Citrix](img/Citrix2.JPG)
 
-Pinchamos en Home y nos dirá que descarga un fichero de nombre raro y extensión **.ica**. Lo descargamos, y hacemos doble click para ejecutarlo. Nos lo abrirá con el Citrix Workspace y en principio solamente tenemos que seguir instrucciones.
+Pinchamos en Home y nos dirá que descarga un fichero de nombre raro y extensión **.ica**. Lo descargamos, y hacemos doble click para ejecutarlo. Nos lo abrirá con el Citrix Workspace y en principio solamente tenemos que seguir instrucciones. Si queremos que en posteriores accesos nos ejecute directamente este fichero sin descargarlo pulsaremos en la flechita que queda a la derecha del fichero descargado y seleccionaremos **Abrir siempre archivos de este tipo**.
+
+![Opción de apertura automática](img/AbrirFicheros.png)
+
+En caso de querer crear un acceso directo en el escritorio, nos ponemos en el mismo y con el botón derecho seleccionamos **$Crea\rightarrow Drecera$** y ponemos la URL con la que accedimos al StoreFront.
+
+![Acceso directo a Home](img/Drecera.PNG)
+
+En la ruta .\SPRiR\Admin\TELETREBALL\ConexionCitrix\img se encuenta el fichero **logo.ico** por si alguien le quiere poner el icono al acceso directo. 
