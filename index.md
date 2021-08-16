@@ -16,6 +16,7 @@ Nos saldrá un menu donde elegiremos la letra de asignación a la unidad y la di
 
 - Para Oncología Radioterápica: **\\\Obelix.arnau.scs.es\E\OncologiaRadioterapica**
 - Para Protección Radiológica: **\\\Obelix.arnau.scs.es\E\ProteccioRadiologica**
+- Para el Servidor NAS: **\\\NASFisica.arnau.scs.es\NASFisica**
 
 ![Menú de asignación de unidad de red](img/UnidadDeRed2.png)
 
