@@ -22,6 +22,15 @@ Nos saldrá un menu donde elegiremos la letra de asignación a la unidad y la di
 
 Cuando nos pida las credenciales, deberemos poner como usuario **dni@arnau.scs.es** y como password el nuestro de Windows del Hospital.
 
+## Acceso alternativo al NAS desde el navegador
+
+En caso de trabajar en la unidad **NASFisica** desde el navegador, si ponemos la dirección **http://nasfisica.arnau.scs.es** nos saldrá la siguiente pantalla:
+
+![Acceso a la unidad NASFisica desde la web](img/AccesoNAS.png)
+
+Accedemos con nuestras credenciales del hospital y una vez dentro pinchamos en el icono **File Station**. Desde allí podemos navegar por los archivos en una aplicación similar a Dropbox o Drive.
+
+
 
 ## Procedimiento para instalación de Citrix
 
